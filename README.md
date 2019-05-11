@@ -28,6 +28,6 @@ The following are necessary for our analysis :
 Other libraries are just additional tools not really useful but rather convenient to ease and facilitate analysis.
 You may remove in the code those lines used to import them and it won't affect the the outcome.
 
-##The data sets were taken from Kaggle: 
+## The data sets were taken from Kaggle: 
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 https://www.kaggle.com/olistbr/marketing-funnel-olist/home
