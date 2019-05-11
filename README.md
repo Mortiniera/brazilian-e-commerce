@@ -21,6 +21,8 @@ We suppose that you have Anaconda installed on your computer in order to run pyt
 The following are necessary for our analysis : 
 - Numpy
 - Pandas 
+- sklearn
+- imblearn
 - Seaborn 
 - googletrans
 - tqdm
