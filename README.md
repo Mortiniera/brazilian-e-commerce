@@ -1,9 +1,9 @@
 # Authors
-Augustin Fontugne
-Paul Mermod
-Kilian Girardet
-Thevie Mortiniera
-Mathieu Shiva
+- Augustin Fontugne
+- Paul Mermod
+- Kilian Girardet
+- Thevie Mortiniera
+- Mathieu Shiva
 
 # Project : Data-driven strategic analysis of Olist e-commerce
 This project was conducted under the scope of the course MGT-415 : Data Science in Practice under the supervision of the Teacher
